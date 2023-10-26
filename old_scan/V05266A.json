@@ -6,27 +6,27 @@
                 "mu_pos_err": 0.0012850932619039375,
                 "sigma_pos": 0.03768983775960495,
                 "sigma_pos_err": 0.0041503809545195,
-                "width_half_diff": -0.8583907281459414,
-                "width_quarter_diff": -1.4935266919955348,
-                "width_eighth_diff": -1.6506420205876202
+                "width_half_diff": 0.8583907281459414,
+                "width_quarter_diff": 1.4935266919955348,
+                "width_eighth_diff": 1.6506420205876202
             },
             "1-1.4MeV": {
                 "mu_pos": 0.45916655890021935,
                 "mu_pos_err": 0.0005309268116610461,
                 "sigma_pos": 0.040160657304162316,
                 "sigma_pos_err": 0.0019147581916879603,
-                "width_half_diff": -0.15061614002278045,
-                "width_quarter_diff": -0.4077473419603286,
-                "width_eighth_diff": -1.622557608242309
+                "width_half_diff": 0.15061614002278045,
+                "width_quarter_diff": 0.4077473419603286,
+                "width_eighth_diff": 1.622557608242309
             },
             "1.7-2MeV": {
                 "mu_pos": 0.47786927434267074,
                 "mu_pos_err": 0.0006365484346828483,
                 "sigma_pos": 0.019252208585039003,
                 "sigma_pos_err": 0.002289855171602957,
-                "width_half_diff": -0.05938758026437441,
-                "width_quarter_diff": -0.26415572809350807,
-                "width_eighth_diff": -1.5971699699522781
+                "width_half_diff": 0.05938758026437441,
+                "width_quarter_diff": 0.26415572809350807,
+                "width_eighth_diff": 1.5971699699522781
             }
         },
         "4800.0": {
@@ -35,27 +35,27 @@
                 "mu_pos_err": 0.0008650811396891701,
                 "sigma_pos": 0.033236908554725386,
                 "sigma_pos_err": 0.0025147572332887293,
-                "width_half_diff": -1.1128244973467756,
-                "width_quarter_diff": -1.578774334549467,
-                "width_eighth_diff": -1.6784270495201983
+                "width_half_diff": 1.1128244973467756,
+                "width_quarter_diff": 1.578774334549467,
+                "width_eighth_diff": 1.6784270495201983
             },
             "1-1.4MeV": {
                 "mu_pos": 0.45155614013993106,
                 "mu_pos_err": 0.0004841559481925452,
                 "sigma_pos": 0.03897922832167071,
                 "sigma_pos_err": 0.0017802313068643835,
-                "width_half_diff": -0.15928686012681909,
-                "width_quarter_diff": -0.43062323368970146,
-                "width_eighth_diff": -1.6188457089125274
+                "width_half_diff": 0.15928686012681909,
+                "width_quarter_diff": 0.43062323368970146,
+                "width_eighth_diff": 1.6188457089125274
             },
             "1.7-2MeV": {
                 "mu_pos": 0.4708148152139824,
                 "mu_pos_err": 0.0004143274344249256,
                 "sigma_pos": 0.020373342966123944,
                 "sigma_pos_err": 0.0016050299571377217,
-                "width_half_diff": -0.09799518204816124,
-                "width_quarter_diff": -0.26164253849707775,
-                "width_eighth_diff": -1.6980639325842821
+                "width_half_diff": 0.09799518204816124,
+                "width_quarter_diff": 0.26164253849707775,
+                "width_eighth_diff": 1.6980639325842821
             }
         },
         "4600.0": {
@@ -64,27 +64,27 @@
                 "mu_pos_err": 0.00043572412436831227,
                 "sigma_pos": 0.03430081587176963,
                 "sigma_pos_err": 0.0015151744385392062,
-                "width_half_diff": -0.3694985423064073,
-                "width_quarter_diff": -1.4476169460963573,
-                "width_eighth_diff": -1.7100732698477488
+                "width_half_diff": 0.3694985423064073,
+                "width_quarter_diff": 1.4476169460963573,
+                "width_eighth_diff": 1.7100732698477488
             },
             "1-1.4MeV": {
                 "mu_pos": 0.44844882365628613,
                 "mu_pos_err": 0.0006977445972331933,
                 "sigma_pos": 0.029431767244245493,
                 "sigma_pos_err": 0.0027990300316907473,
-                "width_half_diff": -0.09000308954385368,
-                "width_quarter_diff": -0.22517509067636063,
-                "width_eighth_diff": -1.7471044050893525
+                "width_half_diff": 0.09000308954385368,
+                "width_quarter_diff": 0.22517509067636063,
+                "width_eighth_diff": 1.7471044050893525
             },
             "1.7-2MeV": {
                 "mu_pos": 0.4625084098223711,
                 "mu_pos_err": 0.00037932503892078263,
                 "sigma_pos": 0.020374766554997457,
                 "sigma_pos_err": 0.001544583508506634,
-                "width_half_diff": -0.10532197855209498,
-                "width_quarter_diff": -0.25565693535451184,
-                "width_eighth_diff": -1.686218605759422
+                "width_half_diff": 0.10532197855209498,
+                "width_quarter_diff": 0.25565693535451184,
+                "width_eighth_diff": 1.686218605759422
             }
         },
         "4400.0": {
@@ -93,27 +93,27 @@
                 "mu_pos_err": 0.0007806014945630968,
                 "sigma_pos": 0.02651206542897244,
                 "sigma_pos_err": 0.0024477172513518745,
-                "width_half_diff": -1.2641508018259975,
-                "width_quarter_diff": -1.693026835203594,
-                "width_eighth_diff": -1.7405454607333384
+                "width_half_diff": 1.2641508018259975,
+                "width_quarter_diff": 1.693026835203594,
+                "width_eighth_diff": 1.7405454607333384
             },
             "1-1.4MeV": {
                 "mu_pos": 0.43364155502665586,
                 "mu_pos_err": 0.0015322649793072113,
                 "sigma_pos": 0.03547585082620828,
                 "sigma_pos_err": 0.0019448582775024115,
-                "width_half_diff": -0.105102022518823,
-                "width_quarter_diff": -0.30484871892973125,
-                "width_eighth_diff": -1.729146379995701
+                "width_half_diff": 0.105102022518823,
+                "width_quarter_diff": 0.30484871892973125,
+                "width_eighth_diff": 1.729146379995701
             },
             "1.7-2MeV": {
                 "mu_pos": 0.4503412106359887,
                 "mu_pos_err": 0.0003902813304805357,
                 "sigma_pos": 0.018270607152165944,
                 "sigma_pos_err": 0.001574393777716185,
-                "width_half_diff": -0.08940398478219182,
-                "width_quarter_diff": -0.3109532636548511,
-                "width_eighth_diff": -1.7211632666386925
+                "width_half_diff": 0.08940398478219182,
+                "width_quarter_diff": 0.3109532636548511,
+                "width_eighth_diff": 1.7211632666386925
             }
         },
         "4200.0": {
@@ -122,27 +122,27 @@
                 "mu_pos_err": 0.0005180475038858087,
                 "sigma_pos": 0.027374455474771745,
                 "sigma_pos_err": 0.0017648953943545434,
-                "width_half_diff": -0.7962298268544573,
-                "width_quarter_diff": -1.6924266689799599,
-                "width_eighth_diff": -1.8114260257077557
+                "width_half_diff": 0.7962298268544573,
+                "width_quarter_diff": 1.6924266689799599,
+                "width_eighth_diff": 1.8114260257077557
             },
             "1-1.4MeV": {
                 "mu_pos": 0.42389108948150017,
                 "mu_pos_err": 0.00039017302000624596,
                 "sigma_pos": 0.03265632173154576,
                 "sigma_pos_err": 0.0016868563586977013,
-                "width_half_diff": -0.0953949295615882,
-                "width_quarter_diff": -0.30631328552173465,
-                "width_eighth_diff": -1.7854128003230796
+                "width_half_diff": 0.0953949295615882,
+                "width_quarter_diff": 0.30631328552173465,
+                "width_eighth_diff": 1.7854128003230796
             },
             "1.7-2MeV": {
                 "mu_pos": 0.4391879851325072,
                 "mu_pos_err": 0.00025982505350571937,
                 "sigma_pos": 0.017792183161177533,
                 "sigma_pos_err": 0.0010461549430952186,
-                "width_half_diff": -0.11847072822280444,
-                "width_quarter_diff": -0.2676451825211517,
-                "width_eighth_diff": -1.8396872104215611
+                "width_half_diff": 0.11847072822280444,
+                "width_quarter_diff": 0.2676451825211517,
+                "width_eighth_diff": 1.8396872104215611
             }
         },
         "4000.0": {
@@ -151,27 +151,27 @@
                 "mu_pos_err": 0.0005326804652928619,
                 "sigma_pos": 0.02719222387742272,
                 "sigma_pos_err": 0.0017953967657418249,
-                "width_half_diff": -1.249715049805916,
-                "width_quarter_diff": -1.8267809644536424,
-                "width_eighth_diff": -1.8705983074654942
+                "width_half_diff": 1.249715049805916,
+                "width_quarter_diff": 1.8267809644536424,
+                "width_eighth_diff": 1.8705983074654942
             },
             "1-1.4MeV": {
                 "mu_pos": 0.4054203616075853,
                 "mu_pos_err": 0.00042767964489304503,
                 "sigma_pos": 0.03770264507683196,
                 "sigma_pos_err": 0.001854768875002225,
-                "width_half_diff": -0.12813706838587335,
-                "width_quarter_diff": -0.3802074945428086,
-                "width_eighth_diff": -1.8979862007749102
+                "width_half_diff": 0.12813706838587335,
+                "width_quarter_diff": 0.3802074945428086,
+                "width_eighth_diff": 1.8979862007749102
             },
             "1.7-2MeV": {
                 "mu_pos": 0.4225919510438502,
                 "mu_pos_err": 0.0002744764686112895,
                 "sigma_pos": 0.018286342952741886,
                 "sigma_pos_err": 0.001097382693688675,
-                "width_half_diff": -0.12472071523197048,
-                "width_quarter_diff": -0.36148867678363544,
-                "width_eighth_diff": -1.7867361746196737
+                "width_half_diff": 0.12472071523197048,
+                "width_quarter_diff": 0.36148867678363544,
+                "width_eighth_diff": 1.7867361746196737
             }
         },
         "3800.0": {
@@ -180,27 +180,27 @@
                 "mu_pos_err": 0.0006722217829807836,
                 "sigma_pos": 0.022553507936417173,
                 "sigma_pos_err": 0.002144493754839965,
-                "width_half_diff": -1.6509376708858028,
-                "width_quarter_diff": -1.9869204166388987,
-                "width_eighth_diff": -1.934721985582232
+                "width_half_diff": 1.6509376708858028,
+                "width_quarter_diff": 1.9869204166388987,
+                "width_eighth_diff": 1.934721985582232
             },
             "1-1.4MeV": {
                 "mu_pos": 0.38657408600905785,
                 "mu_pos_err": 0.00042293920113630493,
                 "sigma_pos": 0.0364229327265986,
                 "sigma_pos_err": 0.0019226546710711917,
-                "width_half_diff": -0.13945946338324677,
-                "width_quarter_diff": -0.3949673098072979,
-                "width_eighth_diff": -1.8279884913058226
+                "width_half_diff": 0.13945946338324677,
+                "width_quarter_diff": 0.3949673098072979,
+                "width_eighth_diff": 1.8279884913058226
             },
             "1.7-2MeV": {
                 "mu_pos": 0.40287925123081003,
                 "mu_pos_err": 0.0003048260306839549,
                 "sigma_pos": 0.01896861912769095,
                 "sigma_pos_err": 0.0012597329881464871,
-                "width_half_diff": -0.18592118868860918,
-                "width_quarter_diff": -0.5024678581163281,
-                "width_eighth_diff": -1.7907513275283042
+                "width_half_diff": 0.18592118868860918,
+                "width_quarter_diff": 0.5024678581163281,
+                "width_eighth_diff": 1.7907513275283042
             }
         },
         "3600.0": {
@@ -209,27 +209,27 @@
                 "mu_pos_err": 0.0004988326719713884,
                 "sigma_pos": 0.027564536341997292,
                 "sigma_pos_err": 0.002076947435035564,
-                "width_half_diff": -0.6225322507429796,
-                "width_quarter_diff": -1.8142522196226039,
-                "width_eighth_diff": -2.0722142447436926
+                "width_half_diff": 0.6225322507429796,
+                "width_quarter_diff": 1.8142522196226039,
+                "width_eighth_diff": 2.0722142447436926
             },
             "1-1.4MeV": {
                 "mu_pos": 0.3692718360427664,
                 "mu_pos_err": 0.00030094109412140326,
                 "sigma_pos": 0.029608259991720353,
                 "sigma_pos_err": 0.001435052318366564,
-                "width_half_diff": -0.11382453451283098,
-                "width_quarter_diff": -0.33628913061873994,
-                "width_eighth_diff": -1.809938322747316
+                "width_half_diff": 0.11382453451283098,
+                "width_quarter_diff": 0.33628913061873994,
+                "width_eighth_diff": 1.809938322747316
             },
             "1.7-2MeV": {
                 "mu_pos": 0.38076722790103024,
                 "mu_pos_err": 0.00022845972505374762,
                 "sigma_pos": 0.017931887079256782,
                 "sigma_pos_err": 0.0010437733540821041,
-                "width_half_diff": -0.13160868645542964,
-                "width_quarter_diff": -0.38024945567521945,
-                "width_eighth_diff": -1.8006584789065025
+                "width_half_diff": 0.13160868645542964,
+                "width_quarter_diff": 0.38024945567521945,
+                "width_eighth_diff": 1.8006584789065025
             }
         },
         "3400.0": {
@@ -238,27 +238,27 @@
                 "mu_pos_err": 0.0003812681485726872,
                 "sigma_pos": 0.023524868948681048,
                 "sigma_pos_err": 0.0015491152992812888,
-                "width_half_diff": -1.525618851902744,
-                "width_quarter_diff": -2.212804556598204,
-                "width_eighth_diff": -2.3046455161643333
+                "width_half_diff": 1.525618851902744,
+                "width_quarter_diff": 2.212804556598204,
+                "width_eighth_diff": 2.3046455161643333
             },
             "1-1.4MeV": {
                 "mu_pos": 0.3305558583837511,
                 "mu_pos_err": 0.0003598846134538395,
                 "sigma_pos": 0.03441118204184598,
                 "sigma_pos_err": 0.001996554694314609,
-                "width_half_diff": -0.19864375285450056,
-                "width_quarter_diff": -0.5332211213408188,
-                "width_eighth_diff": -2.1200608356754382
+                "width_half_diff": 0.19864375285450056,
+                "width_quarter_diff": 0.5332211213408188,
+                "width_eighth_diff": 2.1200608356754382
             },
             "1.7-2MeV": {
                 "mu_pos": 0.34292944480197407,
                 "mu_pos_err": 0.00022023984383728355,
                 "sigma_pos": 0.018303752903053614,
                 "sigma_pos_err": 0.0012782990192118499,
-                "width_half_diff": -0.14669728177905114,
-                "width_quarter_diff": -0.43179768861448586,
-                "width_eighth_diff": -2.0147714342117338
+                "width_half_diff": 0.14669728177905114,
+                "width_quarter_diff": 0.43179768861448586,
+                "width_eighth_diff": 2.0147714342117338
             }
         },
         "3100.0": {
@@ -267,27 +267,27 @@
                 "mu_pos_err": 0.000505968890342837,
                 "sigma_pos": 0.019639889454506735,
                 "sigma_pos_err": 0.002192728314233353,
-                "width_half_diff": -2.4711744558296345,
-                "width_quarter_diff": -2.9028387973405563,
-                "width_eighth_diff": -2.850577147924042
+                "width_half_diff": 2.4711744558296345,
+                "width_quarter_diff": 2.9028387973405563,
+                "width_eighth_diff": 2.850577147924042
             },
             "1-1.4MeV": {
                 "mu_pos": 0.2596570948254594,
                 "mu_pos_err": 0.00030815858163215173,
                 "sigma_pos": 0.03652199445849224,
                 "sigma_pos_err": 0.0019416385557099861,
-                "width_half_diff": -0.30133385017505293,
-                "width_quarter_diff": -1.0023565171100237,
-                "width_eighth_diff": -2.5384781507938743
+                "width_half_diff": 0.30133385017505293,
+                "width_quarter_diff": 1.0023565171100237,
+                "width_eighth_diff": 2.5384781507938743
             },
             "1.7-2MeV": {
                 "mu_pos": 0.2696893758038345,
                 "mu_pos_err": 0.0004885838902669662,
                 "sigma_pos": 0.021255895750858952,
                 "sigma_pos_err": 0.0012579962259497304,
-                "width_half_diff": -0.35300123686110135,
-                "width_quarter_diff": -1.5375252305164666,
-                "width_eighth_diff": -2.5864007649617737
+                "width_half_diff": 0.35300123686110135,
+                "width_quarter_diff": 1.5375252305164666,
+                "width_eighth_diff": 2.5864007649617737
             }
         }
     }

@@ -322,9 +322,13 @@ def get_first_last_peaks(energySeries, detector_type, pulser = True, plot=False)
         hh = hist[np.where(bin_centers < 1500)]
         peak_max = bin_centers[np.argmax(hh)]
     if peak_last == peak_max:
-        hh = hist[np.where(bin_centers < peak_last-300)]
-        bb = bin_centers[np.where(bin_centers < peak_last-300)]
+        hh = hist[np.where(bin_centers < peak_last-13500)]
+        bb = bin_centers[np.where(bin_centers < peak_last-13500)]
         peak_max = bb[np.argmax(hh)]
+        if peak_max < 1000:
+            hh = hist[np.where((bin_centers>1500) & (bin_centers < 1700))]
+            bb = bin_centers[np.where((bin_centers>1500) & (bin_centers < 1700))]
+            peak_max = bb[np.argmax(hh)]
     elif detector_type=="ICPC" and peak_max < 1000:   
         hh = hist[np.where((bin_centers>1500) & (bin_centers < 1700))]
         bb = bin_centers[np.where((bin_centers>1500) & (bin_centers < 1700))]
