@@ -553,8 +553,8 @@ def plot_energy_drift(ene, dt_eff, lim=(2600,2630), a1 = None, a2 = None, title 
     plt.legend(title=f'QDrift vs {title}',loc='lower right')
     plt.xlabel('energy (keV)')
     plt.ylabel('dt eff')
-    
-    
+
+
 def zac_filter_loc(length: int, sigma: float, flat: int, decay: int, dec = False):
 
     lt = int((length - flat) / 2)
@@ -610,7 +610,7 @@ def check_memory():
     cpu_usage = (load15/os.cpu_count()) * 100
     print("The CPU usage is : ", cpu_usage)
     print('RAM Used (GB):', psutil.virtual_memory()[3]/1000000000)
-    
+
 
 def delete_variables():
     for obj in dir():
@@ -1230,7 +1230,7 @@ def plot_results(time_string, res_file, strings=[1], plot_dir=None):
     if plot_dir is not None:
         fig4.savefig(f'{plot_dir}/resolution_results_coax.png',dpi=200, bbox_inches='tight')
     """
-    
+
 def calculate_mean_and_error(data, errors):
     mask = (errors > 0)
     data, errors = data[mask], errors[mask]
@@ -1301,7 +1301,7 @@ def filter_grids(chns, plot_dir, run = 22 ):
         ax1.set_xlabel('CT correction')
         ax1.set_ylabel('FWHM [keV]')
         ax1.legend(loc='upper right',title=f'{chn} - {det_id}')
-        
+
 
 def baseline_processing(run, chns, dets, phy_dir, db_file, res_file, n_sel = 1000, nwf = 100, down_sample = 6, plot_dir = None):
     fig1, axis1 = plt.subplots(nrows=2, ncols=2,figsize=(16,6.4), facecolor='white')
@@ -1399,7 +1399,7 @@ def baseline_processing(run, chns, dets, phy_dir, db_file, res_file, n_sel = 100
         ax2.legend(title=chn)
         filehandler = open(res_file, 'wb')
         pickle.dump(results, filehandler)
-        
+
 def select_zero_energy(energySeries, thr = 100):
     energySeries = energySeries[np.abs(energySeries) < thr]
     xlo = np.percentile(energySeries, 0)
@@ -1461,7 +1461,7 @@ def dsp_analysis_phy(run, chns, file_dir, n_file = None, s_file = 0, plot = Fals
         ax1.plot(bd,hd,c='r',label='dplms')
         ax1.set_yscale('log')
         ax1.legend(title=chn)
-        
+
 
 def daq_convertion(file_dir, file_key, raw_file, stream_type, raw_config):
     
@@ -1499,8 +1499,8 @@ def save_png_as_pdf(directory,string):
     pdf_file = f'{directory}/{string}_merged.pdf'
     print('save pdf',pdf_file)
     im.save(pdf_file,save_all=True, append_images=imagelist)
-    
-    
+
+
 def guassian_minuit_fit(energies, fit_width = [8, 8], dx=0.1):
     lower_bound = np.percentile(energies, 50) - fit_width[0]
     upper_bound = np.percentile(energies, 50) + fit_width[1]
